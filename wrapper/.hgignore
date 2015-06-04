@@ -1,0 +1,10 @@
+glob:*.suo
+glob:*.user
+glob:*.pch
+glob:*.idb
+glob:*.htm
+glob:*.vshost.exe
+glob:Fann.Net.Xor.Test/*
+glob:*.obj
+glob:*.dep
+glob:*.manifest
